@@ -1,0 +1,9 @@
+[
+  "20261112163018-create-authors.js",
+  "20261112163019-create-genres.js",
+  "20261112163020-create-countries.js",
+  "20261112163021-create-shelves.js",
+  "20261112163022-create-customers.js",
+  "20261112163023-create-orders.js",
+  "20261112163024-create-books.js"
+]
