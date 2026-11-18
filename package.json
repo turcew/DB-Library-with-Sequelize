@@ -6,9 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "migrate": "sequelize-cli db:migrate",
+    "migall": "sequelize-cli db:migrate:all",
     "migundo": "sequelize-cli db:migrate:undo",
-    "checkAuth": "nodemon checkAuth.js",
-    "dropAndSync": "nodemon dropAndSync.js"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
